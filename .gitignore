@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (if large)
+data/
+*.txt
+*.csv
+
+# Model files (large size)
+*.h5
+*.keras
+
+# Tokenizer / pickle files
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
