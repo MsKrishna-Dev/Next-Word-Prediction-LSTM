@@ -18,7 +18,7 @@ In this project:
 - An LSTM-based neural network is trained to learn word dependencies
 - The trained model predicts the next word for a given input sentence
 
-##📂 Dataset Information
+## 📂 Dataset Information
 
 - Dataset Type: Plain text (.txt)
 - Source: Public domain literature (Project Gutenberg)
@@ -26,7 +26,7 @@ In this project:
 - Content: Large English text corpus (used for language modeling)
 - Purpose: Learn word patterns and contextual relationships
 
-### ⚠️ Dataset is NOT included in this repository to keep the repo lightweight.
+#### ⚠️ Dataset is NOT included in this repository to keep the repo lightweight.
 
 ## 🔗 Download Dataset from Kaggle
 
